@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Screenshot
 
-![pc](https://user-images.githubusercontent.com/74724103/116306636-b38b5100-a77b-11eb-854f-1755249c880d.png)
-![mobile](https://user-images.githubusercontent.com/74724103/116306043-f3056d80-a77a-11eb-89a5-ed0e1099dcae.png)
+![pc](https://user-images.githubusercontent.com/74724103/116307361-9efb8880-a77c-11eb-8527-ea137ad45a5e.png)
+![mobile](https://user-images.githubusercontent.com/74724103/116307331-9440f380-a77c-11eb-965c-2efb91dd51f0.png)
 
 ### Links
 
